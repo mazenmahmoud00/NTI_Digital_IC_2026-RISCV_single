@@ -1012,3 +1012,6 @@ GitHub Repository:
 
 https://github.com/mazenmahmoud00/NTI_DIGITAL_IC_SUMMER_2026/tree/main/risc_v_single_cycle_processor
 
+Linkedin:
+
+https://www.linkedin.com/in/mazen-mahmoud-411a60322/?isSelfProfile=true
