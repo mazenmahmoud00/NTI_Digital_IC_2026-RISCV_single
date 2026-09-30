@@ -69,7 +69,6 @@ The current implementation supports a subset of the **RV32I** instruction set.
 | `AND`       | Bitwise AND            |
 | `OR`        | Bitwise OR             |
 | `SLT`       | Set Less Than          |
-| `SLTU`      | Set Less Than Unsigned |
 
 ## I-Type
 
@@ -79,7 +78,6 @@ The current implementation supports a subset of the **RV32I** instruction set.
 | `ANDI`      | AND Immediate                    |
 | `ORI`       | OR Immediate                     |
 | `SLTI`      | Set Less Than Immediate          |
-| `SLTIU`     | Set Less Than Immediate Unsigned |
 | `LW`        | Load Word                        |
 
 ## S-Type
