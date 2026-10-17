@@ -20,7 +20,7 @@ vlog  ../tb/tb_riscv_single.v
 # 3. Start Simulation
 vsim -voptargs=+acc work.tb_riscv_single
 
-# 4. Add Waves to Wave Window (Optional)
+# 4. Add Waves to Wave Window
 add wave -position insertpoint sim:/tb_riscv_single/dut/*
 
 # 5. Run Simulation
